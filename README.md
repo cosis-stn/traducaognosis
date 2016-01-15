@@ -1,4 +1,4 @@
-# traducaognosis
+# Tradução da interface do Plugin Gnosis 
 Tradução para português brasileiro do plugin Gnosis para Joomla
 
 ##Utilização
@@ -8,7 +8,7 @@ Após instalar o plugin Gnosis (http://gnosis.hypermodern.org/index.php/download
 
 ### Compatibilidade
 Os arquivos disponibilizados foram testados com as seguintes versões:
-Joomla: 3.8
+Joomla: 3.4.8
 Gnosis: 1.1.2
 
 ###Equipe
